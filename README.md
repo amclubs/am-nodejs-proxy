@@ -36,7 +36,7 @@ devil binexec on
 cd domains/${USER}.serv00.net
 ```
 ```
-git clone https://github.com/ansoncloud8/am-nodejs-proxy.git
+git clone https://github.com/amclubs/am-nodejs-proxy.git
 ```
 ```
 cd am-nodejs-proxy
